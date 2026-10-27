@@ -12,5 +12,4 @@ processed/failed_cases.txt
 # Experiment and generated outputs
 checkpoints/*/checkpoint_last.pt
 results/**/*.json
-visualizations/**/*.png
 wandb/
