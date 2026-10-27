@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Raw and regenerated datasets
+data/
+processed/*/*.npz
+processed/verse_test/
+processed/failed_cases.txt
+
+# Experiment and generated outputs
+checkpoints/*/checkpoint_last.pt
+results/**/*.json
+visualizations/**/*.png
+wandb/

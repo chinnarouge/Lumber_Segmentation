@@ -1,0 +1,10 @@
+torch
+numpy
+scipy
+wandb
+python-dotenv
+nibabel
+SimpleITK
+pandas
+tqdm
+matplotlib

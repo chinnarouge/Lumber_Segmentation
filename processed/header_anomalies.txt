@@ -1,0 +1,7 @@
+Header anomalies detected during preprocessing
+================================================
+
+/home/chinnarockstar32/lumbar-segmentation/data/Totalsegmentator_dataset_v300/s0295/ct.nii.gz
+/home/chinnarockstar32/lumbar-segmentation/data/Totalsegmentator_dataset_v300/s0308/ct.nii.gz
+/home/chinnarockstar32/lumbar-segmentation/data/Totalsegmentator_dataset_v300/s0311/ct.nii.gz
+/home/chinnarockstar32/lumbar-segmentation/data/Totalsegmentator_dataset_v300/s0552/ct.nii.gz
